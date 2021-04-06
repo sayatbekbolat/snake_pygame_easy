@@ -1,12 +1,26 @@
 # snake_pygame_easy 
 
-### My first python game - SNAKE -
-#### The game builed on pygame open source module
-#### The project have been created to learn how game is made  
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Source](#source)
 
-#### Project is created with:
+## General info
+My first python game - SNAKE -
+The game builed on pygame open source module
+The project have been created to learn how game is made  
+
+## Technologies
+Project is created with:
 * PyGame: 2.0.1
 * Python version: 3.7.0
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ python main.py
+```
+## Source
+https://www.edureka.co/blog/snake-game-with-pygame/
