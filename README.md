@@ -7,3 +7,6 @@
 #### Project is created with:
 * PyGame: 2.0.1
 * Python version: 3.7.0
+
+## General info
+This project is simple Lorem ipsum dolor generator.
