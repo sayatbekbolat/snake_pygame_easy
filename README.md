@@ -17,7 +17,7 @@ Project is created with:
 * Python version: 3.7.0
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project:
 
 ```
 $ python main.py
